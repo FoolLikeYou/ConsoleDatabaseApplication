@@ -1,0 +1,18 @@
+﻿[
+  {
+    "phoneNumber": "00000000000",
+    "fullName": " name",
+    "email": "o@gmail.com",
+    "positionHeld": "cer",
+    "additionalNumbers": "aaa@d.ru, bbb@d.ru",
+    "changedField": null
+  },
+  {
+    "phoneNumber": "87911003010",
+    "fullName": " Second2",
+    "email": "ooo@gm2ail.com",
+    "positionHeld": "ofcer",
+    "additionalNumbers": "a@d.ru, b@d.ru",
+    "changedField": null
+  }
+]

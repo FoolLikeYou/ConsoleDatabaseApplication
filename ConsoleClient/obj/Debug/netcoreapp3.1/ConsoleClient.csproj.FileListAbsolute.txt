@@ -1,0 +1,14 @@
+C:\Users\user\RiderProjects\WebApplication\ConsoleClient\bin\Debug\netcoreapp3.1\ConsoleClient.exe
+C:\Users\user\RiderProjects\WebApplication\ConsoleClient\bin\Debug\netcoreapp3.1\ConsoleClient.deps.json
+C:\Users\user\RiderProjects\WebApplication\ConsoleClient\bin\Debug\netcoreapp3.1\ConsoleClient.runtimeconfig.json
+C:\Users\user\RiderProjects\WebApplication\ConsoleClient\bin\Debug\netcoreapp3.1\ConsoleClient.runtimeconfig.dev.json
+C:\Users\user\RiderProjects\WebApplication\ConsoleClient\bin\Debug\netcoreapp3.1\ConsoleClient.dll
+C:\Users\user\RiderProjects\WebApplication\ConsoleClient\bin\Debug\netcoreapp3.1\ConsoleClient.pdb
+C:\Users\user\RiderProjects\WebApplication\ConsoleClient\bin\Debug\netcoreapp3.1\CommandLine.dll
+C:\Users\user\RiderProjects\WebApplication\ConsoleClient\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\RiderProjects\WebApplication\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.csprojAssemblyReference.cache
+C:\Users\user\RiderProjects\WebApplication\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\WebApplication\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.AssemblyInfo.cs
+C:\Users\user\RiderProjects\WebApplication\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.csproj.CopyComplete
+C:\Users\user\RiderProjects\WebApplication\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.dll
+C:\Users\user\RiderProjects\WebApplication\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.pdb

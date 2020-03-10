@@ -1,0 +1,94 @@
+﻿GET http://localhost:5479/api/database/get-users
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-11T122925.200.json
+
+###
+
+GET http://localhost:5479/api/database/get-users
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-11T122243.200.json
+
+###
+
+GET http://localhost:5479/api/database/get-users
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-11T122136.200.json
+
+###
+
+GET http://localhost:5479/api/database/get-users
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-11T121223.400.txt
+
+###
+
+GET http://localhost:5479/api/database/get-users
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-11T120759.400.txt
+
+###
+
+GET http://localhost:5479/api/database/get-users
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-10T020242.200.json
+
+###
+
+GET http://localhost:5479/api/database/get-users
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-10T020144.200.json
+
+###
+
+GET http://localhost:5479/api/database/get-users
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-10T014622.200.json
+
+###
+
+GET http://localhost:5479/api/database/get-users
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-10T014333.200.json
+
+###
+
+GET http://localhost:5479/api/database/get-users
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-10T014047.200.json
+
+###
+
+GET http://localhost:5479/api/database/get-users
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-10T013109.500.txt
+
+###
+
+GET http://localhost:8080/api/database/get-users
+Accept: */*
+Cache-Control: no-cache
+
+###
+
